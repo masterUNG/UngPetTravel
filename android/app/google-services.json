@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751040533880",
+    "firebase_url": "https://ungpettravel.firebaseio.com",
+    "project_id": "ungpettravel",
+    "storage_bucket": "ungpettravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751040533880:android:ea1b9c8216d32117e1e48d",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungpettravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751040533880-cl5fcmpg2fut475q8te5iu8301kpqug3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZi6CkZ3b9nSw1lyhIDAbh1GJ57vQ0bPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751040533880-cl5fcmpg2fut475q8te5iu8301kpqug3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
